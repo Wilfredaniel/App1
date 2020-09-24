@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WD_App1</string>
+    <string name="edit_message">Enter A Message</string>
+    <string name="button_send">Send</string>
+</resources>
